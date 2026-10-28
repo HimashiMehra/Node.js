@@ -1,0 +1,66 @@
+[
+  {
+    "id": 2,
+    "name": "JavaScript Basic",
+    "auther": "John Smith",
+    "category": " Programming",
+    "price": 760,
+    "publisher": "tech book",
+    "author": "John Smith",
+    "available": false
+  },
+  {
+    "id": 3,
+    "name": "Haary Potter",
+    "auther": "Haary",
+    "category": "Movie",
+    "price": 980,
+    "publisher": "Joneh",
+    "available": false
+  },
+  {
+    "id": 3,
+    "name": "Python Fundamentals",
+    "author": "Alice Johnson",
+    "category": "Programming",
+    "price": 870,
+    "publisher": "Tech Book",
+    "available": true
+  },
+  {
+    "id": 4,
+    "name": "Web Development Bootcamp",
+    "author": "Sarah Davis",
+    "category": "Web Design",
+    "price": 876,
+    "publisher": "Code Press",
+    "available": true
+  },
+  {
+    "id": 5,
+    "name": "Introduction to SQL",
+    "author": "Sarah Davianhu",
+    "category": "Databases",
+    "price": null,
+    "publisher": "Tech Book",
+    "available": true
+  },
+  {
+    "id": 6,
+    "name": "Machine Learning Essentials",
+    "author": "Michael Chang",
+    "category": "Artificial Intelligence",
+    "price": 890,
+    "publisher": "Future Publishing",
+    "available": true
+  },
+  {
+    "id": 7,
+    "name": "Harry Potter ",
+    "author": "J.K. Rowling",
+    "category": "Children's Fiction",
+    "price": 2780,
+    "publisher": "J.K. Rowling",
+    "available": true
+  }
+]
